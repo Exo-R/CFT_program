@@ -1,0 +1,2 @@
+[sort-it.jar, -s, out.txt, in1.txt, in2.txt, in3.txt]
+Asc
